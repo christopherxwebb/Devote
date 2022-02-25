@@ -2,13 +2,16 @@
 
 A project built by Inigo Meshoulam, Francesco Collotto, Sarah Dousse, Christopher Webb and Ibrahim Chowdhury.
 
+# What is Devote?
+Devote is a money management tool that allows users to round-up their transactions so that they can start save money without feeling the pinch. Users can create saving "pots". These can be for personal savings, investment pots or charities registered on the Devote system.
+
 Login page:
 
 <img width="1173" alt="Screenshot 2022-02-25 at 12 34 34" src="https://user-images.githubusercontent.com/90918377/155716312-dc518ffe-8fb1-4571-b26d-95f66494b1a8.png">
 
 Dashboard:
 
-<img width="1482" alt="Screenshot 2022-02-25 at 12 40 47" src="https://user-images.githubusercontent.com/90918377/155716817-c06cc471-c1c5-4f72-910e-f3f01133a929.png">
+![Screenshot 2022-02-25 at 12 47 02](https://user-images.githubusercontent.com/90918377/155717694-b6d77fed-2b4a-42ed-b7e5-1ffd36798bc7.png)
 
 
 # Getting Started with Devote
