@@ -2,21 +2,22 @@
 
 A project built by Inigo Meshoulam, Francesco Collotto, Sarah Dousse, Christopher Webb and Ibrahim Chowdhury.
 
+Login page:
 
 <img width="1173" alt="Screenshot 2022-02-25 at 12 34 34" src="https://user-images.githubusercontent.com/90918377/155716312-dc518ffe-8fb1-4571-b26d-95f66494b1a8.png">
 
+Dashboard:
 
-# Getting Started
+<img width="1482" alt="Screenshot 2022-02-25 at 12 40 47" src="https://user-images.githubusercontent.com/90918377/155716817-c06cc471-c1c5-4f72-910e-f3f01133a929.png">
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# Getting Started with Devote
 
-In the project directory, you can run:
+Run the Rails server in the backend directory (also available on GitHub) first before running in the project's frontend directory:
 
 ### `npm start`
 
-Runs the app in the development mode.\
+This will run the app in development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
