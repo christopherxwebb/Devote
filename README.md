@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+# Welcome to Devote
+
+A project built by Inigo Meshoulam, Francesco Collotto, Sarah Dousse, Christopher Webb and Ibrahim Chowdhury.
+
+
+<img width="1173" alt="Screenshot 2022-02-25 at 12 34 34" src="https://user-images.githubusercontent.com/90918377/155716312-dc518ffe-8fb1-4571-b26d-95f66494b1a8.png">
+
+
+# Getting Started
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
