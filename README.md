@@ -1,9 +1,9 @@
-# Welcome to Devote
+# Devote
 
-A project built by Inigo Meshoulam, Francesco Collotto, Sarah Dousse, Christopher Webb and Ibrahim Chowdhury.
+Devote was created by Ibrahim Chowdhury, Francesco Collotto, Sarah Dousse, Inigo Meshoulam, and Christopher Webb. The application was built using React, Ruby on Rails and PostgreSQL.
 
 # What is Devote?
-Devote is a money management tool that allows users to round-up their transactions so that they can start save money without feeling the pinch. Users can create saving "pots". These can be for personal savings, investment pots or charities registered on the Devote system.
+Devote is a money management tool allowing users to round-up day-to-day transactions so that they can start saving money without feeling the pinch. Users can create saving "pots". These can be for personal savings, investments or charities registered on the Devote system.
 
 Login page:
 
